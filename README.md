@@ -1,6 +1,7 @@
 # nuxt-test
 
-> Nuxt.js project
+> Nuxt.js project 
+https://ewanhohou.github.io/nuxt-test/
 
 ## Build Setup
 
